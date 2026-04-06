@@ -1,4 +1,4 @@
-# Exemplo do slide Devops & Cloud - Disciplina Engenharia de Software II - curos de Sistema de Informação Multivix Cachoeiro
+# Exemplo do slide Devops & Cloud - Disciplina Engenharia de Software II - cursos de Sistema de Informação Multivix Cachoeiro
 
 # 🐳 Exemplo Simples com Docker (Flask)
 
